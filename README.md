@@ -1,1 +1,1 @@
-# flutter_simple_nes_app
+# flutter_simple_news_app
